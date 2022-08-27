@@ -1,4 +1,4 @@
-# twitter_archive_thread
+# Archive twitter threads (With twitter-to-sqlite)
 
 Dependencies: 
   - twitter to sqlite (https://github.com/dogsheep/twitter-to-sqlite)
