@@ -8,7 +8,8 @@ from subprocess import call
 
 # app.config and database location
 # These config variables come from 'config.py'
-# put your db file path here e.g C:\\projects\\blah\\blah\\xyz.db
+# put your db file path here e.g C:\\projects\\blah\\blah\\xyz.db (I use windows so the path has \\ , if you use unix change accordingly)
+
 database_loc = 'C:\\abc\\def\\database.db'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
